@@ -3,7 +3,7 @@ import requests
 
 # آدرس API و کلید
 API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
-API_KEY = "AIzaSyC9n-u4fAK-zvQdfBDx0GwW9GyVF8Agprs"  # این کلید را محرمانه نگه دارید!
+API_KEY = "YOUR API KEY"  # این کلید را محرمانه نگه دارید!
 
 # رابط کاربری Streamlit
 st.title("چت‌بات Gemini V2")
