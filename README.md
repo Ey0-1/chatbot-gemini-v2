@@ -15,3 +15,8 @@
 
 ```bash
 pip install -r requirements.txt
+```
+اجرای برنامه :
+```bash
+streamlit run chatbot.py
+```
